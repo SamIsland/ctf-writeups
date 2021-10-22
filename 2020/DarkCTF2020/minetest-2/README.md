@@ -1,5 +1,5 @@
-## Minetest 2 - MISC - 432pts.
-# Description
+# Minetest 2 - MISC - 432pts.
+## Description
 Someone messed up my world someone please help me recover my flag. Same file from Minetest 1
 
 ## Attachments
