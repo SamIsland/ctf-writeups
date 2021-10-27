@@ -1,5 +1,5 @@
 # CTF Writeups
-Collection of CTFs/wargames writeups as well as any Computer Science related competitions i play in.
+Collection of CTFs writeups.
 
 ## Contents
 ### 2020
